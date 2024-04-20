@@ -77,6 +77,7 @@ body {
     body {
         overflow: hidden;
         background-color: #000;
+        background-position: center;
     }
     .box-container {
         list-style: none;
