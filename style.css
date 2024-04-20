@@ -73,7 +73,7 @@ body {
 
 }
 
-@media only screen and (max-width: 769px), (max-width: 1024px), (max-width: 376;) {
+@media only screen and (max-width: 769px), (max-width: 1024px), (max-width: 376) {
     body {
         overflow: hidden;
         background-color: #000;
