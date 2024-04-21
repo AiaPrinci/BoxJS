@@ -14,3 +14,8 @@ boxDiv.forEach((listItem) => {
         listItem.style.transition = 'scale 0.3s';
     })
 })
+
+const play = () => {
+    var audio = document.getElementById("audio");
+    audio.play();
+}
